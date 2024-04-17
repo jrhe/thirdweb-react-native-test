@@ -1,4 +1,4 @@
-package com.jrhe.particlenetworkreactnativetest
+package com.jrhe.thirdwebreactnativetest
 
 import android.os.Build
 import android.os.Bundle

@@ -7,7 +7,7 @@
     <key>CFBundleDevelopmentRegion</key>
     <string>$(DEVELOPMENT_LANGUAGE)</string>
     <key>CFBundleDisplayName</key>
-    <string>particle-network-react-native-test</string>
+    <string>thirdweb-react-native-test</string>
     <key>CFBundleExecutable</key>
     <string>$(EXECUTABLE_NAME)</string>
     <key>CFBundleIdentifier</key>
@@ -27,7 +27,7 @@
       <dict>
         <key>CFBundleURLSchemes</key>
         <array>
-          <string>com.jrhe.particlenetworkreactnativetest</string>
+          <string>com.jrhe.thirdwebreactnativetest</string>
         </array>
       </dict>
     </array>

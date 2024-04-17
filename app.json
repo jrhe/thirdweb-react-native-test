@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "particle-network-react-native-test",
-    "slug": "particle-network-react-native-test",
+    "name": "thirdweb-react-native-test",
+    "slug": "thirdweb-react-native-test",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,19 +11,17 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.jrhe.particlenetworkreactnativetest"
+      "bundleIdentifier": "com.jrhe.thirdwebreactnativetest"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.jrhe.particlenetworkreactnativetest"
+      "package": "com.jrhe.thirdwebreactnativetest"
     },
     "web": {
       "favicon": "./assets/favicon.png"

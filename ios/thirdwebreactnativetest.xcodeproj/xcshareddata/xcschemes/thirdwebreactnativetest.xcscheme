@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "particlenetworkreactnativetest.app"
-               BlueprintName = "particlenetworkreactnativetest"
-               ReferencedContainer = "container:particlenetworkreactnativetest.xcodeproj">
+               BuildableName = "thirdwebreactnativetest.app"
+               BlueprintName = "thirdwebreactnativetest"
+               ReferencedContainer = "container:thirdwebreactnativetest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "particlenetworkreactnativetestTests.xctest"
-               BlueprintName = "particlenetworkreactnativetestTests"
-               ReferencedContainer = "container:particlenetworkreactnativetest.xcodeproj">
+               BuildableName = "thirdwebreactnativetestTests.xctest"
+               BlueprintName = "thirdwebreactnativetestTests"
+               ReferencedContainer = "container:thirdwebreactnativetest.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "particlenetworkreactnativetest.app"
-            BlueprintName = "particlenetworkreactnativetest"
-            ReferencedContainer = "container:particlenetworkreactnativetest.xcodeproj">
+            BuildableName = "thirdwebreactnativetest.app"
+            BlueprintName = "thirdwebreactnativetest"
+            ReferencedContainer = "container:thirdwebreactnativetest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "particlenetworkreactnativetest.app"
-            BlueprintName = "particlenetworkreactnativetest"
-            ReferencedContainer = "container:particlenetworkreactnativetest.xcodeproj">
+            BuildableName = "thirdwebreactnativetest.app"
+            BlueprintName = "thirdwebreactnativetest"
+            ReferencedContainer = "container:thirdwebreactnativetest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

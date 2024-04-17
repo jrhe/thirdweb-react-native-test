@@ -1,4 +1,4 @@
-rootProject.name = 'particle-network-react-native-test'
+rootProject.name = 'thirdweb-react-native-test'
 
 dependencyResolutionManagement {
   versionCatalogs {

@@ -1,4 +1,4 @@
-package com.jrhe.particlenetworkreactnativetest
+package com.jrhe.thirdwebreactnativetest
 
 import android.app.Application
 import android.content.res.Configuration
